@@ -1,0 +1,6 @@
+{
+  "name": "Enhanced Cognitive Wireless Sensor Network",
+  "description": "Closed-Loop Intelligent WSN Monitoring System for Energy Efficiency, LightGBM Fault Detection, Dyna-Q Routing, AODV Self-Healing, and Blockchain Storage",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
